@@ -1,0 +1,4 @@
+Here is the result: 
+ This is a new line text, We're editing an unmade file 
+ and this is a new line
+ Here lies appended text on a new line
